@@ -53,6 +53,7 @@ def write_to_cvs(file):
 
         for line in data:
             writer.writerow(line)
+    print(data)        
 
 print(write_to_cvs('main_info.csv'))
 
