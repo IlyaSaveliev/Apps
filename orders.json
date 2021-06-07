@@ -1,0 +1,23 @@
+[
+    {
+        "item": "books",
+        "quantity": "2",
+        "price": "800",
+        "buyer": "buyer1",
+        "date": "01.01.2021"
+    },
+    {
+        "item": "books2",
+        "quantity": "2",
+        "price": "800",
+        "buyer": "buyer1",
+        "date": "01.01.2021"
+    },
+    {
+        "item": "books3",
+        "quantity": "2",
+        "price": "800",
+        "buyer": "buyer1",
+        "date": "01.01.2021"
+    }
+]

@@ -1,0 +1,11 @@
+goods:
+- Motherboards
+- CPU
+- RAM
+- GPU
+goods_price:
+  CPU: 400ˆ
+  GPU: 900ˆ
+  Motherboards: 300ˆ
+  RAM: 200ˆ
+goods_quantity: 4
